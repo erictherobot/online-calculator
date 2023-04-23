@@ -47,6 +47,7 @@ const Calculator = () => {
           value={expression}
           readOnly
           className="w-full text-right p-2"
+          placeholder="0"
         />
       </div>
       <div className="grid grid-cols-4 gap-2">
